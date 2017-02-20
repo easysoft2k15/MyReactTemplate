@@ -3,4 +3,5 @@
 1. git clone https://github.com/easysoft2k15/MyReactTemplate.git
 2. cd MyReactTemplate
 3. npm install
+4. npm run build
 4. npm start 
