@@ -2,7 +2,7 @@ const path=require("path");
 
 module.exports=
 {
-    entry:  path.resolve("dev","index.jsx"),
+    entry:  path.resolve("dev_js","index.jsx"),
     output: 
     {
         path: path.resolve("output"),
