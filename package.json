@@ -13,13 +13,13 @@
     "fable-powerpack": "0.0.19",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
-    "victory": "^0.17.0",
+    "scriptjs": "^2.5.8",
     "webpack": "^2.2.1",
     "webpack-dev-server": "^2.4.1"
   },
   "scripts": {
     "build": "fable && webpack",
-    "start": "webpack-dev-server"
+    "start": "webpack-dev-server --progress --inline --hot"
   },
   "devDependencies": {}
 }
